@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mukund SBNRI</string>
+    <string name="open_issues">Open Issues %1$s</string>
+    <string name="licence_name">Licence: %1$s</string>
+    <string name="permissons">Permissons:</string>
+    <string name="admin">Admin</string>
+    <string name="pull">Pull</string>
+    <string name="push">Push</string>
+</resources>
